@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on creating a new app!
+- 🌱 I’m currently learning how to use GitHub and React.
+- ⚡ Fun fact: I always name my pets after food because I love cooking! My two cats, Marshmellow and Mochi, are my whole world!
 <!--
 **wiemer-dog34/wiemer-dog34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
